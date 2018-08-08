@@ -1,2 +1,2 @@
 def display_rainbow(colors_array)
-  puts "R: #{colors_array[0]}, O: #{colors_array[1]}, "
+  puts "R: #{colors_array[0]}, O: #{colors_array[1]}, Y: #{colors_array[2]}, #{colors_array[0]}"
